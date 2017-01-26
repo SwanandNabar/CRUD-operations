@@ -33,7 +33,7 @@
       carVm.newDriver = null;
     };
     
-    
+    /*deletes one user data from the table*/
     carVm.remove = function (driver){
         var index = carVm.users.indexOf(driver);
         carVm.users.splice(index,1);
