@@ -1,0 +1,16 @@
+/* Styles go here */
+
+img{
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+}
+
+
+.dem{
+  color:blue;
+}
+.rep{
+  color:red;
+}
+  
